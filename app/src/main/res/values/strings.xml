@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Tourist Places of Guatemala</string>
+    <string name="name">Name</string>
+    <string name="guate">Guate</string>
+    <string name="atitlan">ATITLÁN</string>
+    <string name="tikal">TIKAL</string>
+    <string name="semuc">SEMUC CHAMPEY</string>
+    <string name="star">Star</string>
+    <string name="article_title">Atitlán</string>
+    <string name="article_subtitle">Entre \nlas \naguas</string>
+    <string name="article_text">Uno de los atractivos turísticos más visitados en Guatemala. A orillas del lago se sitúan los volcanes de Atitlán, Tolimán y
+        San Pedro La Laguna (“Los Tres Gigantes”), formando así un paisaje impresionante.
+
+        \n\nSituado en el departamento de Sololá, el Lago de Atitlán es uno de los atractivos turísticos más visitados en Guatemala, y fue nominado como una de las siete
+        maravillas del mundo. Es considerado como el lago más bello del mundo, y también se concibe como uno de los sitios más singulares.
+
+        \n\nEl lago tiene una extensión de 130 Km2, y el color de sus aguas varía del azul profundo al verde. El lago, formado hace aproximadamente 84,000 años producto
+        de una erupción volcánica, se encuentra a 1,500 metros sobre el nivel del mar, con una longitud de 18 kilómetros y una profundidad hasta de 341 metros, convirtiéndolo
+        así en el lago más profundo de Centroamérica.
+
+        \n\nLos cerros y volcanes alrededor del lago ofrecen bosques densos y tupidos, donde el senderismo se puede practicar sin problemas, pudiéndose observar una gran
+        variedad de aves, desde los poco tímidos pájaros carpinteros, hasta el Quetzal, ave nacional.</string>
+    <string name="vacio" />
+</resources>
